@@ -45,7 +45,9 @@ Filter:
 <img width="1545" height="1600" alt="image" src="https://github.com/user-attachments/assets/ba304e40-fc04-41c7-8853-b030c7292128" />
 
 TABULATION:
-<img width="1545" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e90c1b2-4990-4709-9b81-07006d90e0d6" />
+
+<img width="1374" height="879" alt="image" src="https://github.com/user-attachments/assets/745c088c-aa2d-4e46-b633-848d255adbc6" />
+
 
 FULLWAVE RECTIFIER:
 
