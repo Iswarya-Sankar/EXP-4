@@ -46,7 +46,7 @@ Filter:
 
 TABULATION:
 
-<img width="1374" height="879" alt="image" src="https://github.com/user-attachments/assets/745c088c-aa2d-4e46-b633-848d255adbc6" />
+<img width="637" height="541" alt="image" src="https://github.com/user-attachments/assets/96d9ed99-4783-4ca9-b8c3-e5d104dd5322" />
 
 
 FULLWAVE RECTIFIER:
